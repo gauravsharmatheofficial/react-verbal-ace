@@ -20,7 +20,7 @@ function CategorySection() {
           <li>
             <div
               className="category-card"
-              style={{ color: "hsl(170, 75%, 41%)" }}
+              style={{ backgroundColor: "hsl(169, 55%, 94%)" }}
             >
               <div className="card-icon">
                 <img
@@ -48,7 +48,10 @@ function CategorySection() {
           </li>
 
           <li>
-            <div className="category-card" style={{ color: "351, 83%, 61%" }}>
+            <div
+              className="category-card"
+              style={{ backgroundColor: "hsl(350, 90%, 96%)" }}
+            >
               <div className="card-icon">
                 <img
                   src="src/assets/images/category-2.svg"
@@ -75,7 +78,10 @@ function CategorySection() {
           </li>
 
           <li>
-            <div className="category-card" style={{ color: "229, 75%, 58%" }}>
+            <div
+              className="category-card"
+              style={{ backgroundColor: "hsl(229, 81%, 96%)" }}
+            >
               <div className="card-icon">
                 <img
                   src="src/assets/images/category-3.svg"
@@ -102,7 +108,10 @@ function CategorySection() {
           </li>
 
           <li>
-            <div className="category-card" style={{ color: "42, 94%, 55%" }}>
+            <div
+              className="category-card"
+              style={{ backgroundColor: "hsl(42, 100%, 95%)" }}
+            >
               <div className="card-icon">
                 <img
                   src="src/assets/images/category-4.svg"

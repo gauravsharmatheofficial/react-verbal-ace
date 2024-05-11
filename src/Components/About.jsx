@@ -11,8 +11,8 @@ function About() {
           >
             <img
               src="src/assets/images/about-banner.jpg"
-              width="520"
-              height="370"
+              width="520px"
+              height="370px"
               loading="lazy"
               alt="about banner"
               className="img-cover"
@@ -78,10 +78,8 @@ function About() {
             </li>
           </ul>
           <img
-            src="./assets/images/about-shape-4.svg"
-            width="100"
-            height="100"
-            loading="lazy"
+            src="src/assets/images/about-shape-4.svg"
+            style={{ width: "100px", height: "100px", loading: "lazy" }}
             alt=""
             className="shape about-shape-4"
           />
