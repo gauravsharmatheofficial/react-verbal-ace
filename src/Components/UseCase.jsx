@@ -18,11 +18,14 @@ function CategorySection() {
 
         <ul className="grid-list">
           <li>
-            <div className="category-card" style={{ color: "170, 75%, 41%" }}>
+            <div
+              className="category-card"
+              style={{ color: "hsl(170, 75%, 41%)" }}
+            >
               <div className="card-icon">
                 <img
-                  src="./assets/images/category-1.svg"
-                  style={{ width: "40", height: "40", loading: "lazy" }}
+                  src="src/assets/images/category-1.svg"
+                  style={{ width: "40px", height: "40px", loading: "lazy" }}
                   alt="Online Degree Programs"
                   className="img"
                 />
@@ -48,8 +51,8 @@ function CategorySection() {
             <div className="category-card" style={{ color: "351, 83%, 61%" }}>
               <div className="card-icon">
                 <img
-                  src="./assets/images/category-2.svg"
-                  style={{ width: "40", height: "40", loading: "lazy" }}
+                  src="src/assets/images/category-2.svg"
+                  style={{ width: "40px", height: "40px", loading: "lazy" }}
                   alt="Non-Degree Programs"
                   className="img"
                 />
@@ -75,8 +78,8 @@ function CategorySection() {
             <div className="category-card" style={{ color: "229, 75%, 58%" }}>
               <div className="card-icon">
                 <img
-                  src="./assets/images/category-3.svg"
-                  style={{ width: "40", height: "40", loading: "lazy" }}
+                  src="src/assets/images/category-3.svg"
+                  style={{ width: "40px", height: "40px", loading: "lazy" }}
                   alt="Off-Campus Programs"
                   className="img"
                 />
@@ -102,8 +105,8 @@ function CategorySection() {
             <div className="category-card" style={{ color: "42, 94%, 55%" }}>
               <div className="card-icon">
                 <img
-                  src="./assets/images/category-4.svg"
-                  style={{ width: "40", height: "40", loading: "lazy" }}
+                  src="src/assets/images/category-4.svg"
+                  style={{ width: "40px", height: "40px", loading: "lazy" }}
                   alt="Hybrid Distance Programs"
                   className="img"
                 />
